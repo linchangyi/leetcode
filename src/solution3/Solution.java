@@ -34,7 +34,7 @@ class Solution {
 
     /**
      * 动态规划，超时
-     * 时间复杂度 n3
+     * 时间复杂度 n2
      *
      * @param s
      * @return
